@@ -6,7 +6,9 @@
 - **Team Name**: TEAM_5709  
 - **Performance**:  
   - **Private Leaderboard Score**: 310,872.06  
-  - **Private Leaderboard Rank**: 1st Place  
+  - **Private Leaderboard Rank**: 1st Place
+  - ![Award](https://github.com/xup6193193/Predicting_Solar_Power_Generation_Using_Microclimate_Data/blob/main/7fbdbf_fbcb57db75e54e0dad434e394b3df0cc~mv2.webp)
+  - ![Award](https://github.com/xup6193193/Predicting_Solar_Power_Generation_Using_Microclimate_Data/blob/main/7fbdbf_c9754d269f2c476c85ea0c9cc78fb805~mv2.webp)
 - **Team Members**:  
   - Team Leader: Lin Jingjun (林靖鈞)  
 
